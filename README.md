@@ -1,5 +1,6 @@
-# django-heroku-basic-template
-Basic Django setup for deploying to heroku
+# The GG Squad
 
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy/?template=https://github.com/benmcnelly/theggsquad)
+## Features
+- App runs in background and lets you snag a (ggclip) clip or screenshot from a game with a key-combo
+- ggclips are branded with the pre-configured player name and ggsquad logo
+- ggclips are sharable with a keypress or streamdeck button that auto-types out the short-url in chat
